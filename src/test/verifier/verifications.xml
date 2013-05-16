@@ -4,7 +4,7 @@
   <files>
     <file>
       <location>target/classes/chai.js</location>
-      <contains>\Qregister("chai.js"\E</contains>
+      <contains>\Qregister("chai/lib/chai.js"\E</contains>
     </file>
   </files>
 </verifications>
